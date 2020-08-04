@@ -1,0 +1,28 @@
+.bg-black{
+                background-color: #000;
+            }
+            .bg-black-img{
+                background:transparent;
+                background-color: #000;
+            }
+            .hap-contr-btn svg {
+                color: #fff;
+            }
+            .hap-media-title{
+                color: #fff !important;
+            }
+            .hap-playlist-holder{
+                background:transparent;
+                background-color: #000;
+            }
+            .hap-playlist-inner{
+                height: 800px;
+            }
+            .hap-playlist-inner{
+                background: url('img/playerbg.gif');
+                background-repeat: no-repeat;
+                background-size: 100% 100%; 
+            }
+            .body-nowplaying{
+                left: 40% !important;
+            }
